@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Введення_даних_з_файлу_і_форматований_вивід_даних_різного_типу_в_файл</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Введення_в_діалозі_і_форматований_вивід_даних_різного_типу</RootNamespace>
+  </PropertyGroup>
+
+</Project>

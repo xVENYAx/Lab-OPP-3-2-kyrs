@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 завдання", "Лаб ОПП №3 2 курс\1 завдання.csproj", "{8CE9E990-2A3A-40A4-BD51-ACD43956764A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "форматований вивід даних різного типу", "форматований вивід даних різного типу\форматований вивід даних різного типу.csproj", "{61B57193-F2C4-4EE1-895C-C85943295719}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Приклади", "Приклади", "{6CB59C20-A7B0-4AE8-AB14-67C6C2B3B3C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Введення в діалозі і форматований вивід даних різного типу", "Введення в діалозі і форматований вивід даних різного типу\Введення в діалозі і форматований вивід даних різного типу.csproj", "{1EED0E6F-0B19-4E98-8820-E24A7B6FC279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Введення даних з файлу і форматований вивід даних різного типу в файл", "Введення даних з файлу і форматований вивід даних різного типу в файл\Введення даних з файлу і форматований вивід даних різного типу в файл.csproj", "{9F3BB057-35B2-4921-8F6C-34CE4C52866F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 завдання", "2 завдання\2 завдання.csproj", "{23735C46-78D0-4366-8510-F2F9FA9FD16C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CE9E990-2A3A-40A4-BD51-ACD43956764A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE9E990-2A3A-40A4-BD51-ACD43956764A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE9E990-2A3A-40A4-BD51-ACD43956764A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE9E990-2A3A-40A4-BD51-ACD43956764A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B57193-F2C4-4EE1-895C-C85943295719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B57193-F2C4-4EE1-895C-C85943295719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B57193-F2C4-4EE1-895C-C85943295719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B57193-F2C4-4EE1-895C-C85943295719}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EED0E6F-0B19-4E98-8820-E24A7B6FC279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EED0E6F-0B19-4E98-8820-E24A7B6FC279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EED0E6F-0B19-4E98-8820-E24A7B6FC279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EED0E6F-0B19-4E98-8820-E24A7B6FC279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F3BB057-35B2-4921-8F6C-34CE4C52866F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3BB057-35B2-4921-8F6C-34CE4C52866F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3BB057-35B2-4921-8F6C-34CE4C52866F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3BB057-35B2-4921-8F6C-34CE4C52866F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23735C46-78D0-4366-8510-F2F9FA9FD16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23735C46-78D0-4366-8510-F2F9FA9FD16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23735C46-78D0-4366-8510-F2F9FA9FD16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23735C46-78D0-4366-8510-F2F9FA9FD16C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{61B57193-F2C4-4EE1-895C-C85943295719} = {6CB59C20-A7B0-4AE8-AB14-67C6C2B3B3C0}
+		{1EED0E6F-0B19-4E98-8820-E24A7B6FC279} = {6CB59C20-A7B0-4AE8-AB14-67C6C2B3B3C0}
+		{9F3BB057-35B2-4921-8F6C-34CE4C52866F} = {6CB59C20-A7B0-4AE8-AB14-67C6C2B3B3C0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DDCF856-CE35-4760-BDD7-19A802D5AEA4}
+	EndGlobalSection
+EndGlobal
